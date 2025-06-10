@@ -1,7 +1,6 @@
 # 🌤️ Aplicación Meteorológica
 
-Una aplicación web moderna y elegante para consultar el pronóstico del tiempo con autocompletado inteligente de ciudades de todo el mundo.
-Basada en https://roadmap.sh/projects/weather-app
+Una aplicación web moderna y elegante para consultar el pronóstico del tiempo con autocompletado inteligente de ciudades de todo el mundo. Basada en https://roadmap.sh/projects/weather-app
 ![Weather App Preview](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -106,4 +105,4 @@ npm run dev
 - **Animaciones suaves** al cambiar entre pestañas
 
 
-<div>`<p>`Hecho con ❤️ y ☕ por `<a href="https://github.com/elbrahian">`Tu Nombre`</a>``</p>`
+<div>`<p>`Hecho con ❤️ y ☕ por `<a href="https://github.com/elbrahian">`Brahian Rueda`</a>``</p>`
