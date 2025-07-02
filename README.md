@@ -1,9 +1,6 @@
 # 🌤️ Aplicación Meteorológica
 
 Una aplicación web moderna y elegante para consultar el pronóstico del tiempo con autocompletado inteligente de ciudades de todo el mundo. Basada en https://roadmap.sh/projects/weather-app
-![Weather App Preview](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 DEMO
 https://v0-new-project-ra2qxflbmuj.vercel.app/
@@ -29,41 +26,6 @@ https://v0-new-project-ra2qxflbmuj.vercel.app/
 - **[Lucide React](https://lucide.dev/)** - Iconos modernos y elegantes
 - **[Visual Crossing Weather API](https://www.visualcrossing.com/)** - Datos meteorológicos precisos y actualizados
 
-## 🚀 Instalación y Configuración
-
-### Prerrequisitos
-
-- Node.js 18.0 o superior
-- npm, yarn o pnpm
-- Una API key de Visual Crossing Weather (gratuita)
-
-### Pasos de Instalación
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/tu-usuario/weather-app.git
-   cd weather-app
-2. **Instala las dependencias:**
-
-```shellscript
-npm install
-```
-
-3. **Configura las variables de entorno:**
-```shellscript
-cp .env.example .env.local
-```
-Edita `.env.local` y agrega tu API key de Visual Crossing:
-```plaintext
-VISUAL_CROSSING_API_KEY=tu_api_key_aqui
-```
-
-4. **Ejecuta la aplicación en modo desarrollo:**
-```shellscript
-npm run dev
-```
-5. **Abre tu navegador en:** [http://localhost:3000](http://localhost:3000)
-
 
 ## 🔑 Obtener API Key de Visual Crossing
 1. Ve a [Visual Crossing Weather](https://www.visualcrossing.com/)
@@ -72,11 +34,6 @@ npm run dev
 4. Copia tu API key desde la sección "Account"
 5. Pégala en tu archivo `.env.local`
 
-### Railway
-
-1. **Conecta tu repositorio a Railway**
-2. **Agrega la variable de entorno** `VISUAL_CROSSING_API_KEY`
-3. **Deploy automático**
 
 ## 🎯 Funcionalidades Detalladas
 
@@ -106,6 +63,3 @@ npm run dev
 - **Navegación por pestañas** entre pasado y futuro
 - **Información compacta** por cada hora
 - **Animaciones suaves** al cambiar entre pestañas
-
-
-<div>`<p>`Hecho con ❤️ y ☕ por `<a href="https://github.com/elbrahian">`Brahian Rueda`</a>``</p>`
